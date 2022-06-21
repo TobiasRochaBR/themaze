@@ -1,4 +1,4 @@
 # this is the feature file
 
-def functest2():
+def testfunc():
     pass
