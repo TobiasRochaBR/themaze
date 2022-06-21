@@ -6,3 +6,6 @@ def testfunc():
 def anotherFunc():
     # func on feature
     pass
+
+def theJiraFunc():
+    pass
